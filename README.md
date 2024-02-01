@@ -40,7 +40,7 @@ Welcome to Multilanguage Invoice Extractor! This innovative application utilizes
 
 To install Multilanguage Invoice Extractor, follow these steps:
 
-$ git clone https://github.com/your_repository.git
+$ git clone https://github.com/PranjalGits/MultiLanguage-Invoice-Extractor-LLM-App.git
 
 $ cd multilanguage-invoice-extractor
 
